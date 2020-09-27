@@ -1,0 +1,28 @@
+
+button{
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+    border-radius: 5%;
+    background-color: #fff;
+    box-shadow: 2px 2px 10px 10px lightgray;  
+    font-size: 70px; 
+}
+
+.hover_button{
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+    border-radius: 5%;
+    background-color: yellow;
+    box-shadow: 2px 2px 10px 10px lightgray;  
+    font-size: 70px; 
+}
+
+.div1{
+    box-shadow: 2px 2px 10px 10px lightgray;
+}
+
+body{
+    background-color: #f0f2f5;
+}
